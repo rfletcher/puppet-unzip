@@ -1,0 +1,6 @@
+name         'rfletcher-unzip'
+version      '0.0.1'
+license      'MIT License'
+summary      'A puppet module for Unzip'
+description  'Install or remove Unzip'
+project_page 'https://github.com/rfletcher/puppet-unzip'
